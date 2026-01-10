@@ -33,27 +33,59 @@ def log_history(message):
         f.write(f"[{timestamp}] {message}\n")
 
 
+def get_user_input(prompt, type_=str, allow_back=True):
+    """Generic input with type checking and 'back' option"""
+    while True:
+        user_input = input(prompt).strip()
+        if allow_back and user_input.lower() == "b":
+            return "BACK"
+        try:
+            return type_(user_input)
+        except ValueError:
+            print(f"Invalid input. Expected a {type_.__name__}.\n")
+
+
 def add_expense(expenses, categories):
-    print("\nChoose a category:")
-    for i, cat in enumerate(categories, 1):
-        print(f"{i}. {cat}")
+    while True:
+        print("\nChoose a category (or press 'B' to go back):")
+        for i, cat in enumerate(categories, 1):
+            print(f"{i}. {cat}")
 
-    category = categories[int(input("Category number: ")) - 1]
-    amount = float(input("Amount: "))
-    description = input("Description (free text): ")
+        category_input = get_user_input("Category number: ", int)
+        if category_input == "BACK":
+            return
 
-    expense = {
-        "date": datetime.now().strftime("%Y-%m-%d"),
-        "category": category,
-        "amount": amount,
-        "description": description,
-    }
+        if 1 <= category_input <= len(categories):
+            category = categories[category_input - 1]
+        else:
+            print("Invalid category number. Try again.")
+            continue
 
-    expenses.append(expense)
-    save_expenses(expenses)
-    log_history(f"Added expense: £{amount:.2f} | {category} | {description}")
+        amount = get_user_input("Amount: £", float)
+        if amount == "BACK":
+            return
 
-    print("Expense added.\n")
+        description = input("Description (free text, press enter to skip, B to go back): ").strip()
+        if description.lower() == "b":
+            return
+
+        expense = {
+            "date": datetime.now().strftime("%Y-%m-%d"),
+            "category": category,
+            "amount": amount,
+            "description": description,
+        }
+
+        expenses.append(expense)
+        save_expenses(expenses)
+        log_history(f"Added expense: £{amount:.2f} | {category} | {description}")
+
+        print("Expense added successfully!\n")
+
+        # Ask if user wants to add another
+        cont = input("Add another expense? (y/n): ").strip().lower()
+        if cont != "y":
+            break
 
 
 def show_summary(expenses, categories):
@@ -80,30 +112,29 @@ def show_history(expenses):
 def main():
     config = load_config()
     categories = config["categories"]
-    monthly_groups = config['monthly_groups']
-    monthly_derived = config['monthly_derived']
     expenses = load_expenses()
 
     while True:
-        print("Budget App")
+        print()
+        print("=== Budget App ===")
         print("1. Add expense")
         print("2. View summary")
         print("3. View expense history")
         print("4. Exit")
-        
-        choice = input("Choose an option: ")
 
-        if choice == "1":
+        choice = get_user_input("\nChoose an option: ", int, allow_back=False)
+
+        if choice == 1:
             add_expense(expenses, categories)
-        elif choice == "2":
+        elif choice == 2:
             show_summary(expenses, categories)
-        elif choice == "3":
+        elif choice == 3:
             show_history(expenses)
-        elif choice == "4":
+        elif choice == 4:
             print("Goodbye.")
             break
         else:
-            print("Invalid choice.\n")
+            print("Invalid choice. Please select 1-4.")
 
 
 if __name__ == "__main__":
