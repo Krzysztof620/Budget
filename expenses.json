@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-01-10",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "Rent - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Council tax",
+    "amount": 91.0,
+    "description": "council tax - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Wifi",
+    "amount": 28.0,
+    "description": "wiif - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "sim card - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Groceries",
+    "amount": 134.0,
+    "description": "groceries - 03/01 to 10/01 (inclusive)"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Food out",
+    "amount": 32.0,
+    "description": "food outside - 03/01 to 10/01"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Special",
+    "amount": 349.0,
+    "description": "special costs to set up the house - 03/01 to 10/01"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Flights",
+    "amount": 237.0,
+    "description": "flight to London (one-way)"
+  }
+]

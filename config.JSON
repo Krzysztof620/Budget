@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Rent",
+    "Council tax",
+    "Wifi",
+    "SIM card",
+    "Water",
+    "Electricity + gas",
+    "Commuting",
+    "Groceries",
+    "Food out",
+    "Discretionary",
+    "Flights",
+    "Special"
+  ],
+
+  "monthly_groups": {
+    "Purchases": [
+      "Commuting",
+      "Groceries",
+      "Food out",
+      "Discretionary"
+    ],
+    "Utilities": [
+      "Council tax",
+      "Wifi",
+      "SIM card",
+      "Water",
+      "Electricity + gas"
+    ]
+  },
+
+  "monthly_derived": {
+    "Purchases + Utilities": {
+      "formula": "Purchases + Utilities"
+    },
+    "Full spend": {
+      "formula": "Purchases + Utilities + Flights + Special + Rent"
+    }
+  }
+}
