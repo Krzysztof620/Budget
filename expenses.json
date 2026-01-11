@@ -46,5 +46,17 @@
     "category": "Flights",
     "amount": 237.0,
     "description": "flight to London (one-way)"
+  },
+  {
+    "date": "2026-01-11",
+    "category": "Discretionary",
+    "amount": 17.5,
+    "description": "dumbells and yoga matt"
+  },
+  {
+    "date": "2026-01-11",
+    "category": "Special",
+    "amount": 6.0,
+    "description": "cutlery"
   }
 ]
