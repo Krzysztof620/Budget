@@ -58,5 +58,11 @@
     "category": "Special",
     "amount": 6.0,
     "description": "cutlery"
+  },
+  {
+    "date": "2026-01-12",
+    "category": "Special",
+    "amount": 7.0,
+    "description": "bathtub mat"
   }
 ]

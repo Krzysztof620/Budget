@@ -113,7 +113,7 @@ st.dataframe(records_df, use_container_width=True, hide_index=True)
 # ------------------------
 # Daily category spend
 # ------------------------
-st.header("📈 Daily Spend by Category")
+st.header("📈 Cumulative Daily Spend by Category")
 
 DEFAULT_DAILY_CATEGORIES = [
     "Commuting",
@@ -128,15 +128,23 @@ selected_categories = st.multiselect(
     default=[c for c in DEFAULT_DAILY_CATEGORIES if c in categories],
 )
 
+# Ensure date is datetime and sorted
+df["date"] = pd.to_datetime(df["date"])
+
 daily_df = (
     df[df["category"].isin(selected_categories)]
-    .groupby(["date", "category"])["amount"]
+    .groupby(["date", "category"], as_index=False)["amount"]
     .sum()
-    .unstack(fill_value=0)
+    .pivot(index="date", columns="category", values="amount")
+    .fillna(0)
     .sort_index()
 )
 
-st.line_chart(daily_df)
+# Cumulative spend up to and including each date
+cumulative_daily_df = daily_df.cumsum()
+
+st.line_chart(cumulative_daily_df)
+
 
 # ------------------------
 # Category share by month (%)
