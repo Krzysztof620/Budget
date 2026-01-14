@@ -64,5 +64,11 @@
     "category": "Special",
     "amount": 7.0,
     "description": "bathtub mat"
+  },
+  {
+    "date": "2026-01-14",
+    "category": "Food out",
+    "amount": 13.75,
+    "description": "five guys"
   }
 ]
