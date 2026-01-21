@@ -94,5 +94,29 @@
     "category": "Food out",
     "amount": 16.0,
     "description": "sushi with Titas"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Food out",
+    "amount": 7.2,
+    "description": "Gails"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "Burgers with Cambridge people"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Commuting",
+    "amount": 5.6,
+    "description": "tube to see Cambridge people"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Groceries",
+    "amount": 7.4,
+    "description": "Sainsbury's"
   }
 ]
