@@ -70,5 +70,29 @@
     "category": "Food out",
     "amount": 13.75,
     "description": "five guys"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Food out",
+    "amount": 10.25,
+    "description": "Gails"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Groceries",
+    "amount": 31.2,
+    "description": "M&S"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Groceries",
+    "amount": 7.75,
+    "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-18",
+    "category": "Food out",
+    "amount": 16.0,
+    "description": "sushi with Titas"
   }
 ]
