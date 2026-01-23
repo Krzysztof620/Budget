@@ -118,5 +118,11 @@
     "category": "Groceries",
     "amount": 7.4,
     "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-23",
+    "category": "Food out",
+    "amount": 9.75,
+    "description": "wasabi"
   }
 ]
