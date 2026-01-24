@@ -87,15 +87,15 @@ for cat in ["Flights", "Special", "Rent"]:
         summary_df[cat] = 0
 
 # Decide the display order
-display_cols = list(monthly_groups.keys()) + list(monthly_derived.keys()) + ["Special", "Flights", "Rent"]
-display_cols = [c for c in display_cols if c not in ["Full spend", "Purchases + Utilities"]] + ["Full spend"]
+display_cols = list(monthly_groups.keys()) + list(monthly_derived.keys()) + ["Rent"]
+display_cols = [c for c in display_cols if c not in ["Special + Flights", "Total"]] + ["Total", "Special + Flights"]
 
 print(display_cols)
 
 st.dataframe(summary_df[display_cols].sort_index(), use_container_width=True)
 
 # ------------------------
-# DataFrame prep
+# DataFrame prepą
 # ------------------------
 df = pd.DataFrame(expenses)
 df["date"] = pd.to_datetime(df["date"]).dt.date

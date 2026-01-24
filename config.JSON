@@ -31,11 +31,11 @@
   },
 
   "monthly_derived": {
-    "Purchases + Utilities": {
-      "formula": "Purchases + Utilities"
+    "Total": {
+      "formula": "Purchases + Utilities + Rent"
     },
-    "Full spend": {
-      "formula": "Purchases + Utilities + Flights + Special + Rent"
+    "Special + Flights": {
+      "formula": "Flights + Special"
     }
   }
 }
