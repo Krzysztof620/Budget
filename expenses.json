@@ -130,5 +130,17 @@
     "category": "Food out",
     "amount": 18.5,
     "description": "pophams"
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Food out",
+    "amount": 9.5,
+    "description": "kebab"
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Groceries",
+    "amount": 7.7,
+    "description": "tesco"
   }
 ]
