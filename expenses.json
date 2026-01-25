@@ -142,5 +142,11 @@
     "category": "Groceries",
     "amount": 7.7,
     "description": "tesco"
+  },
+  {
+    "date": "2026-01-25",
+    "category": "Special",
+    "amount": 31.0,
+    "description": "Argos - laundry stuff"
   }
 ]
