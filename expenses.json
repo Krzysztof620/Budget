@@ -148,5 +148,11 @@
     "category": "Special",
     "amount": 31.0,
     "description": "Argos - laundry stuff"
+  },
+  {
+    "date": "2026-01-25",
+    "category": "Food out",
+    "amount": 3.9,
+    "description": "tea with Mollie and Sog"
   }
 ]
