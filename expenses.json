@@ -154,5 +154,17 @@
     "category": "Food out",
     "amount": 3.9,
     "description": "tea with Mollie and Sog"
+  },
+  {
+    "date": "2026-01-26",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "Pizza pilgrims"
+  },
+  {
+    "date": "2026-01-26",
+    "category": "Special",
+    "amount": 4.0,
+    "description": "argos - shower curtain"
   }
 ]
