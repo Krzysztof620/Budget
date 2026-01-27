@@ -166,5 +166,11 @@
     "category": "Special",
     "amount": 4.0,
     "description": "argos - shower curtain"
+  },
+  {
+    "date": "2026-01-27",
+    "category": "Groceries",
+    "amount": 12.9,
+    "description": "Sainsbury's"
   }
 ]
