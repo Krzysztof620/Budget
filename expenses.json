@@ -172,5 +172,17 @@
     "category": "Groceries",
     "amount": 12.9,
     "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-28",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-01-28",
+    "category": "Discretionary",
+    "amount": 56.0,
+    "description": "harrods afternoon tea"
   }
 ]
