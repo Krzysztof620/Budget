@@ -81,14 +81,14 @@ summaries = monthly_summary(expenses, categories, monthly_groups, monthly_derive
 summary_df = pd.DataFrame.from_dict(summaries, orient="index")
 summary_df.index.name = "Month"
 
-# Ensure Flights, Special, Rent columns exist even if 0
-for cat in ["Flights", "Special", "Rent"]:
+# Ensure Flights, House, Rent columns exist even if 0
+for cat in ["Flights", "House", "Rent"]:
     if cat not in summary_df.columns:
         summary_df[cat] = 0
 
 # Decide the display order
 display_cols = list(monthly_groups.keys()) + list(monthly_derived.keys()) + ["Rent"]
-display_cols = [c for c in display_cols if c not in ["Special + Flights", "Total"]] + ["Total", "Special + Flights"]
+display_cols = [c for c in display_cols if c not in ["House + Flights", "Total"]] + ["Total", "House + Flights"]
 
 print(display_cols)
 

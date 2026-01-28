@@ -11,7 +11,7 @@
     "Food out",
     "Discretionary",
     "Flights",
-    "Special"
+    "House"
   ],
 
   "monthly_groups": {
@@ -34,8 +34,8 @@
     "Total": {
       "formula": "Purchases + Utilities + Rent"
     },
-    "Special + Flights": {
-      "formula": "Flights + Special"
+    "House + Flights": {
+      "formula": "Flights + House"
     }
   }
 }

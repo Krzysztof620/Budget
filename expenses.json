@@ -37,9 +37,9 @@
   },
   {
     "date": "2026-01-10",
-    "category": "Special",
+    "category": "House",
     "amount": 349.0,
-    "description": "special costs to set up the house - 03/01 to 10/01"
+    "description": "House costs to set up the house - 03/01 to 10/01"
   },
   {
     "date": "2026-01-10",
@@ -55,13 +55,13 @@
   },
   {
     "date": "2026-01-11",
-    "category": "Special",
+    "category": "House",
     "amount": 6.0,
     "description": "cutlery"
   },
   {
     "date": "2026-01-12",
-    "category": "Special",
+    "category": "House",
     "amount": 7.0,
     "description": "bathtub mat"
   },
@@ -145,7 +145,7 @@
   },
   {
     "date": "2026-01-25",
-    "category": "Special",
+    "category": "House",
     "amount": 31.0,
     "description": "Argos - laundry stuff"
   },
@@ -163,7 +163,7 @@
   },
   {
     "date": "2026-01-26",
-    "category": "Special",
+    "category": "House",
     "amount": 4.0,
     "description": "argos - shower curtain"
   },
