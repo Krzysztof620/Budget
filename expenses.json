@@ -184,5 +184,11 @@
     "category": "Discretionary",
     "amount": 56.0,
     "description": "harrods afternoon tea"
+  },
+  {
+    "date": "2026-01-29",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "Bao"
   }
 ]
