@@ -226,5 +226,11 @@
     "category": "Discretionary",
     "amount": 369.0,
     "description": "katie's flight"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "pizza pilgrims"
   }
 ]
