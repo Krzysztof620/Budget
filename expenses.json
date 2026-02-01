@@ -214,5 +214,17 @@
     "category": "Food out",
     "amount": 10.0,
     "description": "gails"
+  },
+  {
+    "date": "2026-01-03",
+    "category": "Discretionary",
+    "amount": 123.0,
+    "description": "ralph lauren sweater"
+  },
+  {
+    "date": "2026-01-15",
+    "category": "Discretionary",
+    "amount": 369.0,
+    "description": "katie's flight"
   }
 ]
