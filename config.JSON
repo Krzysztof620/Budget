@@ -15,10 +15,16 @@
   ],
 
   "monthly_groups": {
-    "Purchases": [
-      "Commuting",
-      "Groceries",
-      "Food out",
+    "Commuting": [
+      "Commuting"
+    ],
+    "Groceries:": [
+      "Groceries"
+    ],
+    "Food_out": [
+      "Food out"
+    ],
+    "Discretionary": [
       "Discretionary"
     ],
     "Utilities": [
@@ -29,10 +35,9 @@
       "Electricity + gas"
     ]
   },
-
   "monthly_derived": {
     "Total": {
-      "formula": "Purchases + Utilities + Rent"
+      "formula": "Commuting + Groceries + Food_out + Discretionary + Utilities + Rent"
     },
     "House + Flights": {
       "formula": "Flights + House"
