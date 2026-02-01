@@ -190,5 +190,29 @@
     "category": "Food out",
     "amount": 20.0,
     "description": "Bao"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Groceries",
+    "amount": 30.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "tea with Ali and Mollie"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Commuting",
+    "amount": 6.0,
+    "description": "tube to regents park"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
   }
 ]
