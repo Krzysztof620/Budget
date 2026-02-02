@@ -232,5 +232,23 @@
     "category": "Food out",
     "amount": 20.0,
     "description": "pizza pilgrims"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Groceries",
+    "amount": 8.5,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Rent - February",
+    "amount": 1800.0,
+    "description": "rent"
+  },
+  {
+    "date": "2026-01-31",
+    "category": "Electricity + gas",
+    "amount": 82.0,
+    "description": "octopus energy - january"
   }
 ]
