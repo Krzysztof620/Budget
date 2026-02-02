@@ -250,5 +250,11 @@
     "category": "Electricity + gas",
     "amount": 82.0,
     "description": "octopus energy - january"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Discretionary",
+    "amount": 10.0,
+    "description": "jane street jumper"
   }
 ]
