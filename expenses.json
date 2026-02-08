@@ -256,5 +256,59 @@
     "category": "Discretionary",
     "amount": 10.0,
     "description": "jane street jumper"
+  },
+  {
+    "date": "2026-02-05",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "giff gaff sim card"
+  },
+  {
+    "date": "2026-02-06",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-04",
+    "category": "Commuting",
+    "amount": 6.0,
+    "description": "tube to jane street dinner"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "chai latte at a cafe"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "coffee at potter and reid"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 24.0,
+    "description": "food with vani"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 12.0,
+    "description": "five guys dinner"
   }
 ]
