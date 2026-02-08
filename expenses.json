@@ -310,5 +310,11 @@
     "category": "Food out",
     "amount": 12.0,
     "description": "five guys dinner"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Groceries",
+    "amount": 31.0,
+    "description": "m&s"
   }
 ]
