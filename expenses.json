@@ -316,5 +316,11 @@
     "category": "Groceries",
     "amount": 31.0,
     "description": "m&s"
+  },
+  {
+    "date": "2026-02-09",
+    "category": "Discretionary",
+    "amount": 7.0,
+    "description": "slippers"
   }
 ]
