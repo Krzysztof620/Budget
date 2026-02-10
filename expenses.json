@@ -322,5 +322,17 @@
     "category": "Discretionary",
     "amount": 7.0,
     "description": "slippers"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Discretionary",
+    "amount": 92.0,
+    "description": "m&s: extra towels and duvet for guests"
   }
 ]
