@@ -241,9 +241,9 @@
   },
   {
     "date": "2026-02-02",
-    "category": "Rent - February",
+    "category": "Rent",
     "amount": 1800.0,
-    "description": "rent"
+    "description": "rent - february"
   },
   {
     "date": "2026-01-31",
@@ -334,5 +334,11 @@
     "category": "Discretionary",
     "amount": 92.0,
     "description": "m&s: extra towels and duvet for guests"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Council tax",
+    "amount": 98.0,
+    "description": "council tax - February"
   }
 ]
