@@ -340,5 +340,95 @@
     "category": "Council tax",
     "amount": 98.0,
     "description": "council tax - February"
+  },
+  {
+    "date": "2026-02-11",
+    "category": "Groceries",
+    "amount": 3.0,
+    "description": "toilet paper at sainsburys"
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Groceries",
+    "amount": 22.0,
+    "description": "m&s food for dinner with Katie"
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "gails lunch with Katie"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Food out",
+    "amount": 28.0,
+    "description": "harrods afternoon tea"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Food out",
+    "amount": 15.0,
+    "description": "drink for Katie at the Alchemist"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "pub in hampstead"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Discretionary",
+    "amount": 14.0,
+    "description": "laderach for Katie"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Commuting",
+    "amount": 8.5,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "toasties in angel"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "noodles when out with cambridge people"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "m&s snacks"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Commuting",
+    "amount": 8.5,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Commuting",
+    "amount": 9.0,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 8.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-16",
+    "category": "Food out",
+    "amount": 52.0,
+    "description": "breakfast with katie"
   }
 ]
