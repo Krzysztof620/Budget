@@ -430,5 +430,11 @@
     "category": "Food out",
     "amount": 52.0,
     "description": "breakfast with katie"
+  },
+  {
+    "date": "2026-02-17",
+    "category": "Groceries",
+    "amount": 9.0,
+    "description": "sainsburys"
   }
 ]
