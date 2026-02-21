@@ -454,5 +454,11 @@
     "category": "Commuting",
     "amount": 30.0,
     "description": "railcard"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "food market in shoreditch"
   }
 ]
