@@ -436,5 +436,23 @@
     "category": "Groceries",
     "amount": 9.0,
     "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-19",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "pizza pilgrims dinner"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 26.0,
+    "description": "byron chicken sandwhich"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Commuting",
+    "amount": 30.0,
+    "description": "railcard"
   }
 ]
