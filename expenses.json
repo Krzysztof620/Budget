@@ -460,5 +460,53 @@
     "category": "Food out",
     "amount": 11.0,
     "description": "food market in shoreditch"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Commuting",
+    "amount": 30.0,
+    "description": "railcard"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Food out",
+    "amount": 7.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "coffee with sog"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-24",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "itsu"
+  },
+  {
+    "date": "2026-02-25",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "itsu"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Groceries",
+    "amount": 6.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 3.0,
+    "description": "pret tea"
   }
 ]
