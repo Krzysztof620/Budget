@@ -508,5 +508,35 @@
     "category": "Food out",
     "amount": 3.0,
     "description": "pret tea"
+  },
+  {
+    "date": "2026-02-27",
+    "category": "Groceries",
+    "amount": 18.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Groceries",
+    "amount": 3.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-27",
+    "category": "Flights",
+    "amount": 45.0,
+    "description": "ryanair to warsaw"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Food out",
+    "amount": 4.5,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Wifi",
+    "amount": 28.0,
+    "description": "plusnet wifi"
   }
 ]
