@@ -538,5 +538,17 @@
     "category": "Wifi",
     "amount": 28.0,
     "description": "plusnet wifi"
+  },
+  {
+    "date": "2026-03-01",
+    "category": "Food out",
+    "amount": 12.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-03-01",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "deliveroo pizza"
   }
 ]
