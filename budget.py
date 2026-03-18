@@ -23,6 +23,9 @@ def load_expenses():
 
 
 def save_expenses(expenses):
+    # Sort by date (newest first; use reverse=False for oldest first)
+    expenses.sort(key=lambda x: datetime.strptime(x["date"], "%Y-%m-%d"), reverse=True)
+
     with open(EXPENSES_FILE, "w") as f:
         json.dump(expenses, f, indent=2)
 

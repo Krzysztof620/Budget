@@ -1,573 +1,45 @@
 [
   {
-    "date": "2026-01-10",
-    "category": "Rent",
-    "amount": 1800.0,
-    "description": "Rent - first month"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "Council tax",
-    "amount": 91.0,
-    "description": "council tax - first month"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "Wifi",
-    "amount": 28.0,
-    "description": "wiif - first month"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "SIM card",
-    "amount": 10.0,
-    "description": "sim card - first month"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "Groceries",
-    "amount": 134.0,
-    "description": "groceries - 03/01 to 10/01 (inclusive)"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "Food out",
-    "amount": 32.0,
-    "description": "food outside - 03/01 to 10/01"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "House",
-    "amount": 349.0,
-    "description": "House costs to set up the house - 03/01 to 10/01"
-  },
-  {
-    "date": "2026-01-10",
-    "category": "Flights",
-    "amount": 237.0,
-    "description": "flight to London (one-way)"
-  },
-  {
-    "date": "2026-01-11",
+    "date": "2026-03-18",
     "category": "Discretionary",
-    "amount": 17.5,
-    "description": "dumbells and yoga matt"
+    "amount": 51.0,
+    "description": "spending in Poland"
   },
   {
-    "date": "2026-01-11",
-    "category": "House",
-    "amount": 6.0,
-    "description": "cutlery"
-  },
-  {
-    "date": "2026-01-12",
-    "category": "House",
-    "amount": 7.0,
-    "description": "bathtub mat"
-  },
-  {
-    "date": "2026-01-14",
+    "date": "2026-03-13",
     "category": "Food out",
-    "amount": 13.75,
-    "description": "five guys"
+    "amount": 15.5,
+    "description": "airport meal at stanstead"
   },
   {
-    "date": "2026-01-17",
-    "category": "Food out",
-    "amount": 10.25,
-    "description": "Gails"
-  },
-  {
-    "date": "2026-01-17",
+    "date": "2026-03-11",
     "category": "Groceries",
-    "amount": 31.2,
-    "description": "M&S"
-  },
-  {
-    "date": "2026-01-17",
-    "category": "Groceries",
-    "amount": 7.75,
-    "description": "Sainsbury's"
-  },
-  {
-    "date": "2026-01-18",
-    "category": "Food out",
-    "amount": 16.0,
-    "description": "sushi with Titas"
-  },
-  {
-    "date": "2026-01-21",
-    "category": "Food out",
-    "amount": 7.2,
-    "description": "Gails"
-  },
-  {
-    "date": "2026-01-21",
-    "category": "Food out",
-    "amount": 18.0,
-    "description": "Burgers with Cambridge people"
-  },
-  {
-    "date": "2026-01-21",
-    "category": "Commuting",
-    "amount": 5.6,
-    "description": "tube to see Cambridge people"
-  },
-  {
-    "date": "2026-01-21",
-    "category": "Groceries",
-    "amount": 7.4,
-    "description": "Sainsbury's"
-  },
-  {
-    "date": "2026-01-23",
-    "category": "Food out",
-    "amount": 9.75,
-    "description": "wasabi"
-  },
-  {
-    "date": "2026-01-24",
-    "category": "Food out",
-    "amount": 18.5,
-    "description": "pophams"
-  },
-  {
-    "date": "2026-01-24",
-    "category": "Food out",
-    "amount": 9.5,
-    "description": "kebab"
-  },
-  {
-    "date": "2026-01-24",
-    "category": "Groceries",
-    "amount": 7.7,
-    "description": "tesco"
-  },
-  {
-    "date": "2026-01-25",
-    "category": "House",
-    "amount": 31.0,
-    "description": "Argos - laundry stuff"
-  },
-  {
-    "date": "2026-01-25",
-    "category": "Food out",
-    "amount": 3.9,
-    "description": "tea with Mollie and Sog"
-  },
-  {
-    "date": "2026-01-26",
-    "category": "Food out",
-    "amount": 20.0,
-    "description": "Pizza pilgrims"
-  },
-  {
-    "date": "2026-01-26",
-    "category": "House",
-    "amount": 4.0,
-    "description": "argos - shower curtain"
-  },
-  {
-    "date": "2026-01-27",
-    "category": "Groceries",
-    "amount": 12.9,
-    "description": "Sainsbury's"
-  },
-  {
-    "date": "2026-01-28",
-    "category": "Groceries",
-    "amount": 4.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-01-28",
-    "category": "Discretionary",
-    "amount": 56.0,
-    "description": "harrods afternoon tea"
-  },
-  {
-    "date": "2026-01-29",
-    "category": "Food out",
-    "amount": 20.0,
-    "description": "Bao"
-  },
-  {
-    "date": "2026-01-30",
-    "category": "Groceries",
-    "amount": 30.0,
+    "amount": 19.0,
     "description": "m&s"
   },
   {
-    "date": "2026-01-31",
-    "category": "Food out",
-    "amount": 11.0,
-    "description": "tea with Ali and Mollie"
-  },
-  {
-    "date": "2026-01-31",
-    "category": "Commuting",
-    "amount": 6.0,
-    "description": "tube to regents park"
-  },
-  {
-    "date": "2026-02-01",
-    "category": "Food out",
-    "amount": 10.0,
-    "description": "gails"
-  },
-  {
-    "date": "2026-01-03",
-    "category": "Discretionary",
-    "amount": 123.0,
-    "description": "ralph lauren sweater"
-  },
-  {
-    "date": "2026-01-15",
-    "category": "Discretionary",
-    "amount": 369.0,
-    "description": "katie's flight"
-  },
-  {
-    "date": "2026-02-01",
-    "category": "Food out",
-    "amount": 20.0,
-    "description": "pizza pilgrims"
-  },
-  {
-    "date": "2026-02-02",
-    "category": "Groceries",
-    "amount": 8.5,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-02",
-    "category": "Rent",
-    "amount": 1800.0,
-    "description": "rent - february"
-  },
-  {
-    "date": "2026-01-31",
-    "category": "Electricity + gas",
-    "amount": 62.0,
-    "description": "octopus energy - january"
-  },
-  {
-    "date": "2026-02-02",
-    "category": "Discretionary",
-    "amount": 10.0,
-    "description": "jane street jumper"
-  },
-  {
-    "date": "2026-02-05",
-    "category": "SIM card",
-    "amount": 10.0,
-    "description": "giff gaff sim card"
-  },
-  {
-    "date": "2026-02-06",
-    "category": "Groceries",
-    "amount": 10.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-04",
-    "category": "Commuting",
-    "amount": 6.0,
-    "description": "tube to jane street dinner"
-  },
-  {
-    "date": "2026-02-07",
-    "category": "Food out",
-    "amount": 5.0,
-    "description": "chai latte at a cafe"
-  },
-  {
-    "date": "2026-02-07",
-    "category": "Food out",
-    "amount": 10.0,
-    "description": "gails"
-  },
-  {
-    "date": "2026-02-08",
-    "category": "Food out",
-    "amount": 5.0,
-    "description": "coffee at potter and reid"
-  },
-  {
-    "date": "2026-02-08",
-    "category": "Groceries",
-    "amount": 4.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-07",
-    "category": "Food out",
-    "amount": 24.0,
-    "description": "food with vani"
-  },
-  {
-    "date": "2026-02-07",
-    "category": "Food out",
-    "amount": 12.0,
-    "description": "five guys dinner"
-  },
-  {
-    "date": "2026-02-08",
-    "category": "Groceries",
-    "amount": 31.0,
-    "description": "m&s"
-  },
-  {
-    "date": "2026-02-09",
-    "category": "Discretionary",
-    "amount": 7.0,
-    "description": "slippers"
-  },
-  {
-    "date": "2026-02-10",
-    "category": "Groceries",
-    "amount": 10.0,
-    "description": "m&s"
-  },
-  {
-    "date": "2026-02-10",
-    "category": "Discretionary",
-    "amount": 92.0,
-    "description": "m&s: extra towels and duvet for guests"
-  },
-  {
-    "date": "2026-02-10",
+    "date": "2026-03-10",
     "category": "Council tax",
     "amount": 98.0,
-    "description": "council tax - February"
+    "description": "council tax"
   },
   {
-    "date": "2026-02-11",
-    "category": "Groceries",
-    "amount": 3.0,
-    "description": "toilet paper at sainsburys"
-  },
-  {
-    "date": "2026-02-12",
-    "category": "Groceries",
-    "amount": 22.0,
-    "description": "m&s food for dinner with Katie"
-  },
-  {
-    "date": "2026-02-12",
-    "category": "Food out",
-    "amount": 17.0,
-    "description": "gails lunch with Katie"
-  },
-  {
-    "date": "2026-02-13",
-    "category": "Food out",
-    "amount": 28.0,
-    "description": "harrods afternoon tea"
-  },
-  {
-    "date": "2026-02-13",
-    "category": "Food out",
-    "amount": 15.0,
-    "description": "drink for Katie at the Alchemist"
-  },
-  {
-    "date": "2026-02-14",
-    "category": "Food out",
-    "amount": 17.0,
-    "description": "pub in hampstead"
-  },
-  {
-    "date": "2026-02-14",
-    "category": "Discretionary",
-    "amount": 14.0,
-    "description": "laderach for Katie"
-  },
-  {
-    "date": "2026-02-13",
+    "date": "2026-03-09",
     "category": "Commuting",
-    "amount": 8.5,
-    "description": "tube"
+    "amount": 15.5,
+    "description": "oyster card"
   },
   {
-    "date": "2026-02-15",
-    "category": "Food out",
-    "amount": 17.0,
-    "description": "toasties in angel"
-  },
-  {
-    "date": "2026-02-15",
-    "category": "Food out",
-    "amount": 18.0,
-    "description": "noodles when out with cambridge people"
-  },
-  {
-    "date": "2026-02-15",
+    "date": "2026-03-09",
     "category": "Groceries",
-    "amount": 8.0,
-    "description": "m&s snacks"
-  },
-  {
-    "date": "2026-02-14",
-    "category": "Commuting",
-    "amount": 8.5,
-    "description": "tube"
-  },
-  {
-    "date": "2026-02-15",
-    "category": "Commuting",
-    "amount": 9.0,
-    "description": "tube"
-  },
-  {
-    "date": "2026-02-15",
-    "category": "Food out",
-    "amount": 8.0,
-    "description": "gails"
-  },
-  {
-    "date": "2026-02-16",
-    "category": "Food out",
-    "amount": 52.0,
-    "description": "breakfast with katie"
-  },
-  {
-    "date": "2026-02-17",
-    "category": "Groceries",
-    "amount": 9.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-19",
-    "category": "Food out",
-    "amount": 20.0,
-    "description": "pizza pilgrims dinner"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Food out",
-    "amount": 26.0,
-    "description": "byron chicken sandwhich"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Commuting",
-    "amount": 30.0,
-    "description": "railcard"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Food out",
-    "amount": 11.0,
-    "description": "food market in shoreditch"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Commuting",
-    "amount": 30.0,
-    "description": "railcard"
-  },
-  {
-    "date": "2026-02-22",
-    "category": "Food out",
-    "amount": 7.0,
-    "description": "gails"
-  },
-  {
-    "date": "2026-02-22",
-    "category": "Food out",
-    "amount": 5.0,
-    "description": "coffee with sog"
-  },
-  {
-    "date": "2026-02-22",
-    "category": "Groceries",
-    "amount": 10.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-24",
-    "category": "Food out",
-    "amount": 17.0,
-    "description": "itsu"
-  },
-  {
-    "date": "2026-02-25",
-    "category": "Food out",
-    "amount": 10.0,
-    "description": "itsu"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Groceries",
-    "amount": 6.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-21",
-    "category": "Food out",
-    "amount": 3.0,
-    "description": "pret tea"
-  },
-  {
-    "date": "2026-02-27",
-    "category": "Groceries",
-    "amount": 18.0,
+    "amount": 4.5,
     "description": "m&s"
   },
   {
-    "date": "2026-02-28",
-    "category": "Groceries",
-    "amount": 3.0,
-    "description": "sainsburys"
-  },
-  {
-    "date": "2026-02-27",
-    "category": "Flights",
-    "amount": 45.0,
-    "description": "ryanair to warsaw"
-  },
-  {
-    "date": "2026-02-28",
-    "category": "Food out",
-    "amount": 4.5,
-    "description": "gails"
-  },
-  {
-    "date": "2026-02-26",
-    "category": "Wifi",
-    "amount": 28.0,
-    "description": "plusnet wifi"
-  },
-  {
-    "date": "2026-03-01",
-    "category": "Food out",
-    "amount": 12.0,
-    "description": "gails"
-  },
-  {
-    "date": "2026-03-01",
-    "category": "Food out",
-    "amount": 18.0,
-    "description": "deliveroo pizza"
-  },
-  {
-    "date": "2026-02-28",
-    "category": "Electricity + gas",
-    "amount": 69.0,
-    "description": "octopus energy feb"
-  },
-  {
     "date": "2026-03-08",
-    "category": "Rent",
-    "amount": 1800.0,
-    "description": "rent march"
-  },
-  {
-    "date": "2026-03-08",
-    "category": "Flights",
-    "amount": 45.0,
-    "description": "flight to warsaw"
+    "category": "Commuting",
+    "amount": 6.5,
+    "description": "tube"
   },
   {
     "date": "2026-03-08",
@@ -640,5 +112,575 @@
     "category": "Commuting",
     "amount": 32.0,
     "description": "train to stanstead"
+  },
+  {
+    "date": "2026-03-02",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "rent march"
+  },
+  {
+    "date": "2026-03-02",
+    "category": "Flights",
+    "amount": 45.0,
+    "description": "flight to warsaw"
+  },
+  {
+    "date": "2026-03-01",
+    "category": "Food out",
+    "amount": 12.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-03-01",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "deliveroo pizza"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Food out",
+    "amount": 16.0,
+    "description": "ye ye dumplings"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Groceries",
+    "amount": 3.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Food out",
+    "amount": 4.5,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Electricity + gas",
+    "amount": 69.0,
+    "description": "octopus energy feb"
+  },
+  {
+    "date": "2026-02-27",
+    "category": "Groceries",
+    "amount": 18.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Wifi",
+    "amount": 28.0,
+    "description": "plusnet wifi"
+  },
+  {
+    "date": "2026-02-25",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "itsu"
+  },
+  {
+    "date": "2026-02-24",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "itsu"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Food out",
+    "amount": 7.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "coffee with sog"
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 26.0,
+    "description": "byron chicken sandwhich"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Commuting",
+    "amount": 30.0,
+    "description": "railcard"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "food market in shoreditch"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Commuting",
+    "amount": 30.0,
+    "description": "railcard"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Groceries",
+    "amount": 6.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Food out",
+    "amount": 3.0,
+    "description": "pret tea"
+  },
+  {
+    "date": "2026-02-19",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "pizza pilgrims dinner"
+  },
+  {
+    "date": "2026-02-17",
+    "category": "Groceries",
+    "amount": 9.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-16",
+    "category": "Food out",
+    "amount": 52.0,
+    "description": "breakfast with katie"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "toasties in angel"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "noodles when out with cambridge people"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "m&s snacks"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Commuting",
+    "amount": 9.0,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Food out",
+    "amount": 8.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "pub in hampstead"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Discretionary",
+    "amount": 14.0,
+    "description": "laderach for Katie"
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Commuting",
+    "amount": 8.5,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Food out",
+    "amount": 28.0,
+    "description": "harrods afternoon tea"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Food out",
+    "amount": 15.0,
+    "description": "drink for Katie at the Alchemist"
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Commuting",
+    "amount": 8.5,
+    "description": "tube"
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Groceries",
+    "amount": 22.0,
+    "description": "m&s food for dinner with Katie"
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "gails lunch with Katie"
+  },
+  {
+    "date": "2026-02-11",
+    "category": "Groceries",
+    "amount": 3.0,
+    "description": "toilet paper at sainsburys"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Discretionary",
+    "amount": 92.0,
+    "description": "m&s: extra towels and duvet for guests"
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Council tax",
+    "amount": 93.0,
+    "description": "council tax - February"
+  },
+  {
+    "date": "2026-02-09",
+    "category": "Discretionary",
+    "amount": 7.0,
+    "description": "slippers"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "coffee at potter and reid"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Groceries",
+    "amount": 31.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "chai latte at a cafe"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 24.0,
+    "description": "food with vani"
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Food out",
+    "amount": 12.0,
+    "description": "five guys dinner"
+  },
+  {
+    "date": "2026-02-06",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-05",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "giff gaff sim card"
+  },
+  {
+    "date": "2026-02-04",
+    "category": "Commuting",
+    "amount": 6.0,
+    "description": "tube to jane street dinner"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Groceries",
+    "amount": 8.5,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "rent - february"
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Discretionary",
+    "amount": 10.0,
+    "description": "jane street jumper"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "pizza pilgrims"
+  },
+  {
+    "date": "2026-01-31",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "tea with Ali and Mollie"
+  },
+  {
+    "date": "2026-01-31",
+    "category": "Commuting",
+    "amount": 6.0,
+    "description": "tube to regents park"
+  },
+  {
+    "date": "2026-01-31",
+    "category": "Electricity + gas",
+    "amount": 62.0,
+    "description": "octopus energy - january"
+  },
+  {
+    "date": "2026-01-30",
+    "category": "Groceries",
+    "amount": 30.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-01-29",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "Bao"
+  },
+  {
+    "date": "2026-01-28",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-01-28",
+    "category": "Discretionary",
+    "amount": 56.0,
+    "description": "harrods afternoon tea"
+  },
+  {
+    "date": "2026-01-27",
+    "category": "Groceries",
+    "amount": 12.9,
+    "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-26",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "Pizza pilgrims"
+  },
+  {
+    "date": "2026-01-26",
+    "category": "House",
+    "amount": 4.0,
+    "description": "argos - shower curtain"
+  },
+  {
+    "date": "2026-01-25",
+    "category": "House",
+    "amount": 31.0,
+    "description": "Argos - laundry stuff"
+  },
+  {
+    "date": "2026-01-25",
+    "category": "Food out",
+    "amount": 3.9,
+    "description": "tea with Mollie and Sog"
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Food out",
+    "amount": 18.5,
+    "description": "pophams"
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Food out",
+    "amount": 9.5,
+    "description": "kebab"
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Groceries",
+    "amount": 7.7,
+    "description": "tesco"
+  },
+  {
+    "date": "2026-01-23",
+    "category": "Food out",
+    "amount": 9.75,
+    "description": "wasabi"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Food out",
+    "amount": 7.2,
+    "description": "Gails"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "Burgers with Cambridge people"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Commuting",
+    "amount": 5.6,
+    "description": "tube to see Cambridge people"
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Groceries",
+    "amount": 7.4,
+    "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-18",
+    "category": "Food out",
+    "amount": 16.0,
+    "description": "sushi with Titas"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Food out",
+    "amount": 10.25,
+    "description": "Gails"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Groceries",
+    "amount": 31.2,
+    "description": "M&S"
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Groceries",
+    "amount": 7.75,
+    "description": "Sainsbury's"
+  },
+  {
+    "date": "2026-01-15",
+    "category": "Discretionary",
+    "amount": 369.0,
+    "description": "katie's flight"
+  },
+  {
+    "date": "2026-01-14",
+    "category": "Food out",
+    "amount": 13.75,
+    "description": "five guys"
+  },
+  {
+    "date": "2026-01-12",
+    "category": "House",
+    "amount": 7.0,
+    "description": "bathtub mat"
+  },
+  {
+    "date": "2026-01-11",
+    "category": "Discretionary",
+    "amount": 17.5,
+    "description": "dumbells and yoga matt"
+  },
+  {
+    "date": "2026-01-11",
+    "category": "House",
+    "amount": 6.0,
+    "description": "cutlery"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "Rent - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Council tax",
+    "amount": 91.0,
+    "description": "council tax - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Wifi",
+    "amount": 28.0,
+    "description": "wiif - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "sim card - first month"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Groceries",
+    "amount": 134.0,
+    "description": "groceries - 03/01 to 10/01 (inclusive)"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Food out",
+    "amount": 32.0,
+    "description": "food outside - 03/01 to 10/01"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "House",
+    "amount": 349.0,
+    "description": "House costs to set up the house - 03/01 to 10/01"
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Flights",
+    "amount": 237.0,
+    "description": "flight to London (one-way)"
+  },
+  {
+    "date": "2026-01-03",
+    "category": "Discretionary",
+    "amount": 123.0,
+    "description": "ralph lauren sweater"
   }
 ]
