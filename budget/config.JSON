@@ -10,7 +10,7 @@
     "Groceries",
     "Food out",
     "Discretionary",
-    "Flights",
+    "Traveling",
     "House"
   ],
 
@@ -38,9 +38,7 @@
   "monthly_derived": {
     "Total": {
       "formula": "Commuting + Groceries + Food_out + Discretionary + Utilities + Rent"
-    },
-    "House + Flights": {
-      "formula": "Flights + House"
     }
+
   }
 }

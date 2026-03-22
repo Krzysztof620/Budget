@@ -81,19 +81,33 @@ summaries = monthly_summary(expenses, categories, monthly_groups, monthly_derive
 summary_df = pd.DataFrame.from_dict(summaries, orient="index")
 summary_df.index.name = "Month"
 
-# Ensure Flights, House, Rent columns exist even if 0
-for cat in ["Flights", "House", "Rent"]:
+# Ensure Traveling, House, Rent columns exist even if 0
+# Ensure the columns exist
+# Ensure the columns exist
+for cat in ["Traveling", "House", "Rent"]:
     if cat not in summary_df.columns:
         summary_df[cat] = 0
 
-# Decide the display order
-display_cols = list(monthly_groups.keys()) + list(monthly_derived.keys()) + ["Rent"]
-display_cols = [c for c in display_cols if c not in ["House + Flights", "Total"]] + ["Total", "House + Flights"]
+# Compute a combined column for House + Traveling
+summary_df["House + Traveling"] = summary_df["House"] + summary_df["Traveling"]
 
-print(display_cols)
+# Explicitly define the base categories for Total
+total_categories = ["Commuting", "Groceries", "Food_out", "Discretionary", "Utilities", "Rent"]
 
+# Compute Total as sum of explicit categories
+summary_df["Total"] = summary_df[total_categories].sum(axis=1)
+
+# Compute Total including House + Traveling
+summary_df["Total with House + Traveling"] = summary_df["Total"] + summary_df["House + Traveling"]
+
+# Decide display order: main columns + Rent + House + Traveling + Total + House + Traveling + Total with House + Traveling
+display_cols = (
+    [c for c in list(monthly_groups.keys()) + list(monthly_derived.keys()) if c not in ["Total"]]
+    + ["Rent", "Total", "House + Traveling", "Total with House + Traveling"]
+)
+
+# Display
 st.dataframe(summary_df[display_cols].sort_index(), use_container_width=True)
-
 # ------------------------
 # DataFrame prepą
 # ------------------------

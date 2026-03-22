@@ -1,7 +1,31 @@
 [
   {
+    "date": "2026-03-22",
+    "category": "Groceries",
+    "amount": 41.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-03-22",
+    "category": "Food out",
+    "amount": 14.0,
+    "description": "daves chicken"
+  },
+  {
+    "date": "2026-03-22",
+    "category": "Commuting",
+    "amount": 3.0,
+    "description": "tube"
+  },
+  {
+    "date": "2026-03-22",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
     "date": "2026-03-18",
-    "category": "Discretionary",
+    "category": "Traveling",
     "amount": 51.0,
     "description": "spending in Poland"
   },
@@ -109,7 +133,7 @@
   },
   {
     "date": "2026-03-08",
-    "category": "Commuting",
+    "category": "Traveling",
     "amount": 32.0,
     "description": "train to stanstead"
   },
@@ -121,7 +145,7 @@
   },
   {
     "date": "2026-03-02",
-    "category": "Flights",
+    "category": "Traveling",
     "amount": 45.0,
     "description": "flight to warsaw"
   },
@@ -673,7 +697,7 @@
   },
   {
     "date": "2026-01-10",
-    "category": "Flights",
+    "category": "Traveling",
     "amount": 237.0,
     "description": "flight to London (one-way)"
   },
