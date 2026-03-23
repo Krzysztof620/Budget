@@ -2,6 +2,7 @@ Investments
 
 VUAG is an ETF tracking S&P500 but from the UK
 - https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-accumulating/overview
+- VUSA might be better for investment outside of ISA due to the dividends allowance and easy of seeing the amount of dividends
 
 You have to pay:
 - Capital tax (there is a tax-free amount) when you sell at a profit
@@ -203,3 +204,6 @@ No need to pre-clear:
 * Government bonds
 * Target retirement date funds
 * Open and close ended mutual funds
+
+For limit orders, need to pre-clear every 48h as long as the order is open
+If unsure about quantity, preclear more
