@@ -188,3 +188,18 @@ Ask for a permission to open the premium bonds account
 - No need to pre-approve
 - Can just open a premium bonds account
 Understand why the card doesn’t work
+
+What needs to be pre-cleared with Jane Street?
+* Stocks
+* Corporate bonds
+* ETFs
+* Futures
+* Options
+* Exchange traded commodities
+
+No need to pre-clear:
+* Spot fx transactions
+* Treasury bills (e.g. UK gilts)
+* Government bonds
+* Target retirement date funds
+* Open and close ended mutual funds
