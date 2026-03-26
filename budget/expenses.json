@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-03-26",
+    "category": "Discretionary",
+    "amount": 256.0,
+    "description": "glasses"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Wifi",
+    "amount": 28.0,
+    "description": "wifi"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Traveling",
+    "amount": 10.0,
+    "description": "paying tomek back"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Groceries",
+    "amount": 5.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Discretionary",
+    "amount": 7.0,
+    "description": "volleyball subscription"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Discretionary",
+    "amount": 13.0,
+    "description": "post office documents certification"
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Groceries",
+    "amount": 39.0,
+    "description": "m&s"
+  },
+  {
     "date": "2026-03-22",
     "category": "Groceries",
     "amount": 41.0,
