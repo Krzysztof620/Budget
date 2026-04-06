@@ -792,6 +792,12 @@
     "description": "mould removal"
   },
   {
+    "date": "2026-03-28",
+    "category": "Food out",
+    "amount": 26.0,
+    "description": "brunch in angel"
+  },
+  {
     "date": "2026-03-29",
     "category": "Food out",
     "amount": 17.0,
@@ -816,28 +822,34 @@
     "description": "sainsburys"
   },
   {
+    "date": "2026-03-30",
+    "category": "Groceries",
+    "amount": 3.0,
+    "description": "asian store"
+  },
+  {
+    "date": "2026-03-30",
+    "category": "Groceries",
+    "amount": 5.0,
+    "description": "tesco"
+  },
+  {
     "date": "2026-03-31",
     "category": "Electricity + gas",
     "amount": 69.0,
     "description": "octopus energy march"
   },
   {
-    "date": "2026-04-04",
-    "category": "Rent",
-    "amount": 1800.0,
-    "description": "rent"
+    "date": "2026-03-31",
+    "category": "Groceries",
+    "amount": 6.0,
+    "description": "sainsburys"
   },
   {
     "date": "2026-04-01",
     "category": "Food out",
     "amount": 20.0,
     "description": "pizza pilgrims"
-  },
-  {
-    "date": "2026-03-28",
-    "category": "Food out",
-    "amount": 26.0,
-    "description": "brunch in angel"
   },
   {
     "date": "2026-04-02",
@@ -852,21 +864,57 @@
     "description": "pizza pilgrims"
   },
   {
-    "date": "2026-03-30",
-    "category": "Groceries",
-    "amount": 3.0,
-    "description": "asian store"
+    "date": "2026-04-04",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "rent"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-04-04",
     "category": "Groceries",
-    "amount": 5.0,
-    "description": "tesco"
-  },
-  {
-    "date": "2026-03-31",
-    "category": "Groceries",
-    "amount": 6.0,
+    "amount": 5.5,
     "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Commuting",
+    "amount": 2.0,
+    "description": "bus to boat race"
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Food out",
+    "amount": 9.5,
+    "description": "gails"
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Food out",
+    "amount": 9.0,
+    "description": "itsu"
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Food out",
+    "amount": 23.0,
+    "description": "xian noodles"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "giffgaff"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Food out",
+    "amount": 20.0,
+    "description": "pizza pilgrims"
   }
 ]

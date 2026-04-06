@@ -18,7 +18,16 @@ def load_config():
 def load_expenses():
     if EXPENSES_FILE.exists():
         with open(EXPENSES_FILE, "r") as f:
-            return json.load(f)
+            expenses = json.load(f)
+
+        # Sort by date (oldest → newest; use reverse=True for newest first)
+        expenses.sort(key=lambda x: datetime.strptime(x["date"], "%Y-%m-%d"))
+
+        # Save back the sorted version
+        with open(EXPENSES_FILE, "w") as f:
+            json.dump(expenses, f, indent=2)
+
+        return expenses
     return []
 
 
