@@ -88,9 +88,6 @@ for cat in ["Traveling", "House", "Rent"]:
     if cat not in summary_df.columns:
         summary_df[cat] = 0
 
-# Compute a combined column for House + Traveling
-summary_df["House + Traveling"] = summary_df["House"] + summary_df["Traveling"]
-
 # Explicitly define the base categories for Total
 total_categories = ["Commuting", "Groceries", "Food_out", "Discretionary", "Utilities", "Rent"]
 
@@ -98,12 +95,12 @@ total_categories = ["Commuting", "Groceries", "Food_out", "Discretionary", "Util
 summary_df["Total"] = summary_df[total_categories].sum(axis=1)
 
 # Compute Total including House + Traveling
-summary_df["Total with House + Traveling"] = summary_df["Total"] + summary_df["House + Traveling"]
+summary_df["Total with House + Traveling"] = summary_df["Total"] + summary_df["House"] + summary_df["Traveling"]
 
 # Decide display order: main columns + Rent + House + Traveling + Total + House + Traveling + Total with House + Traveling
 display_cols = (
     [c for c in list(monthly_groups.keys()) + list(monthly_derived.keys()) if c not in ["Total"]]
-    + ["Rent", "Total", "House + Traveling", "Total with House + Traveling"]
+    + ["Rent", "Total", "House", "Traveling", "Total with House + Traveling"]
 )
 
 # Display
