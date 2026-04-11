@@ -463,12 +463,6 @@
   },
   {
     "date": "2026-02-21",
-    "category": "Commuting",
-    "amount": 30.0,
-    "description": "railcard"
-  },
-  {
-    "date": "2026-02-21",
     "category": "Groceries",
     "amount": 6.0,
     "description": "sainsburys"
@@ -916,5 +910,23 @@
     "category": "Food out",
     "amount": 20.0,
     "description": "pizza pilgrims"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "ye ye noodles"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Food out",
+    "amount": 14.0,
+    "description": "five guys"
+  },
+  {
+    "date": "2026-04-10",
+    "category": "Council tax",
+    "amount": 103.0,
+    "description": "council tax"
   }
 ]
