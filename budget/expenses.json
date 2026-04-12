@@ -928,5 +928,53 @@
     "category": "Council tax",
     "amount": 103.0,
     "description": "council tax"
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Food out",
+    "amount": 19.0,
+    "description": "breakfast club"
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "yeye noodles"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Groceries",
+    "amount": 3.5,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Groceries",
+    "amount": 4.5,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Food out",
+    "amount": 4.0,
+    "description": "matcha"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Food out",
+    "amount": 6.5,
+    "description": "pophams"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "food court"
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Traveling",
+    "amount": 29.0,
+    "description": "train to stanstead"
   }
 ]
