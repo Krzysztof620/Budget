@@ -976,5 +976,29 @@
     "category": "Traveling",
     "amount": 29.0,
     "description": "train to stanstead"
+  },
+  {
+    "date": "2026-04-15",
+    "category": "Groceries",
+    "amount": 1.0,
+    "description": "tesco"
+  },
+  {
+    "date": "2026-04-15",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-15",
+    "category": "Groceries",
+    "amount": 9.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-15",
+    "category": "Food out",
+    "amount": 24.0,
+    "description": "ye ye noodles"
   }
 ]
