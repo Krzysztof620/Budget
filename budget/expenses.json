@@ -1000,5 +1000,59 @@
     "category": "Food out",
     "amount": 24.0,
     "description": "ye ye noodles"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Traveling",
+    "amount": 8.0,
+    "description": "mac donalds in frankfurt"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "gails liverpool street"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Traveling",
+    "amount": 3.0,
+    "description": "water at the airport"
+  },
+  {
+    "date": "2026-04-25",
+    "category": "Food out",
+    "amount": 19.0,
+    "description": "ye ye noodles"
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Discretionary",
+    "amount": 20.0,
+    "description": "latwo gang"
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Food out",
+    "amount": 4.0,
+    "description": "starbucks"
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Food out",
+    "amount": 2.0,
+    "description": "regents park water"
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "itsu"
   }
 ]
