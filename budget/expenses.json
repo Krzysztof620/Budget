@@ -1054,5 +1054,107 @@
     "category": "Food out",
     "amount": 18.0,
     "description": "itsu"
+  },
+  {
+    "date": "2026-04-27",
+    "category": "Wifi",
+    "amount": 32.0,
+    "description": "plusnet"
+  },
+  {
+    "date": "2026-04-27",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "deliveroo"
+  },
+  {
+    "date": "2026-04-27",
+    "category": "House",
+    "amount": 80.0,
+    "description": "amazon"
+  },
+  {
+    "date": "2026-04-27",
+    "category": "House",
+    "amount": 35.0,
+    "description": "ikea"
+  },
+  {
+    "date": "2026-04-27",
+    "category": "Discretionary",
+    "amount": 74.0,
+    "description": "hm t shirts"
+  },
+  {
+    "date": "2026-04-29",
+    "category": "Groceries",
+    "amount": 5.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-04-29",
+    "category": "Electricity + gas",
+    "amount": 42.0,
+    "description": "octopus energy"
+  },
+  {
+    "date": "2026-04-30",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "yeye dumplings"
+  },
+  {
+    "date": "2026-05-01",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "rent"
+  },
+  {
+    "date": "2026-05-02",
+    "category": "Food out",
+    "amount": 30.0,
+    "description": "korean takeaway"
+  },
+  {
+    "date": "2026-05-02",
+    "category": "Groceries",
+    "amount": 35.0,
+    "description": "boots"
+  },
+  {
+    "date": "2026-05-02",
+    "category": "Groceries",
+    "amount": 80.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-05-02",
+    "category": "Food out",
+    "amount": 3.0,
+    "description": "matcha"
+  },
+  {
+    "date": "2026-05-03",
+    "category": "Food out",
+    "amount": 7.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-05-03",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "tesco"
+  },
+  {
+    "date": "2026-05-04",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "giffgaff"
+  },
+  {
+    "date": "2026-05-05",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
   }
 ]
