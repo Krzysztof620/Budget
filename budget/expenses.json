@@ -1252,5 +1252,119 @@
     "category": "Groceries",
     "amount": 30.0,
     "description": "m&s"
+  },
+  {
+    "date": "2026-05-11",
+    "category": "Food out",
+    "amount": 18.0,
+    "description": "dumplings"
+  },
+  {
+    "date": "2026-05-12",
+    "category": "Groceries",
+    "amount": 7.5,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-05-13",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-05-15",
+    "category": "Food out",
+    "amount": 17.0,
+    "description": "just eat"
+  },
+  {
+    "date": "2026-05-16",
+    "category": "Discretionary",
+    "amount": 10.0,
+    "description": "sogs fundraiser"
+  },
+  {
+    "date": "2026-05-16",
+    "category": "Groceries",
+    "amount": 7.5,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-05-17",
+    "category": "Groceries",
+    "amount": 69.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-05-17",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "pophams"
+  },
+  {
+    "date": "2026-05-20",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "tesco"
+  },
+  {
+    "date": "2026-05-22",
+    "category": "Food out",
+    "amount": 19.0,
+    "description": "deliveroo"
+  },
+  {
+    "date": "2026-05-23",
+    "category": "Food out",
+    "amount": 19.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-05-23",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "dumbo burgers"
+  },
+  {
+    "date": "2026-05-23",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "starbucks"
+  },
+  {
+    "date": "2026-05-23",
+    "category": "Food out",
+    "amount": 7.0,
+    "description": "vincenzo pizza"
+  },
+  {
+    "date": "2026-05-26",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-05-26",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-05-27",
+    "category": "Wifi",
+    "amount": 32.0,
+    "description": "plusnet wifi"
+  },
+  {
+    "date": "2026-05-28",
+    "category": "Commuting",
+    "amount": 6.0,
+    "description": "tube"
+  },
+  {
+    "date": "2026-05-29",
+    "category": "Discretionary",
+    "amount": 2.0,
+    "description": "thank you gift for michael"
   }
 ]
