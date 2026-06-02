@@ -1366,5 +1366,77 @@
     "category": "Discretionary",
     "amount": 2.0,
     "description": "thank you gift for michael"
+  },
+  {
+    "date": "2026-05-29",
+    "category": "Food out",
+    "amount": 31.0,
+    "description": "vincenzos pizzas"
+  },
+  {
+    "date": "2026-05-30",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-05-30",
+    "category": "Food out",
+    "amount": 30.0,
+    "description": "paulies pizza"
+  },
+  {
+    "date": "2026-05-31",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "wrap in victoria park"
+  },
+  {
+    "date": "2026-05-31",
+    "category": "Food out",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-05-31",
+    "category": "Food out",
+    "amount": 5.0,
+    "description": "matcha"
+  },
+  {
+    "date": "2026-05-31",
+    "category": "Discretionary",
+    "amount": 80.0,
+    "description": "uniqlo"
+  },
+  {
+    "date": "2026-06-01",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-06-02",
+    "category": "Electricity + gas",
+    "amount": 43.0,
+    "description": "octopus energy"
+  },
+  {
+    "date": "2026-06-02",
+    "category": "Rent",
+    "amount": 1800.0,
+    "description": "rent june"
+  },
+  {
+    "date": "2026-06-02",
+    "category": "Groceries",
+    "amount": 8.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-06-02",
+    "category": "House",
+    "amount": 29.0,
+    "description": "amazon"
   }
 ]
