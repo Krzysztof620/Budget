@@ -1438,5 +1438,41 @@
     "category": "House",
     "amount": 29.0,
     "description": "amazon"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "Groceries",
+    "amount": 20.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "Commuting",
+    "amount": 30.0,
+    "description": "tfl top up"
+  },
+  {
+    "date": "2026-06-05",
+    "category": "SIM card",
+    "amount": 10.0,
+    "description": "giff gaff"
+  },
+  {
+    "date": "2026-06-05",
+    "category": "Traveling",
+    "amount": 110.0,
+    "description": "wizzair to poland"
+  },
+  {
+    "date": "2026-06-06",
+    "category": "Groceries",
+    "amount": 2.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-06-06",
+    "category": "Discretionary",
+    "amount": 70.0,
+    "description": "pizza with parents"
   }
 ]
