@@ -132,6 +132,12 @@
     "description": "Sainsbury's"
   },
   {
+    "date": "2026-01-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
+  },
+  {
     "date": "2026-01-23",
     "category": "Food out",
     "amount": 9.75,
@@ -474,6 +480,12 @@
     "description": "pret tea"
   },
   {
+    "date": "2026-02-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
+  },
+  {
     "date": "2026-02-22",
     "category": "Food out",
     "amount": 7.0,
@@ -676,6 +688,12 @@
     "category": "Traveling",
     "amount": 51.0,
     "description": "spending in Poland"
+  },
+  {
+    "date": "2026-03-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
   },
   {
     "date": "2026-03-22",
@@ -1020,6 +1038,12 @@
     "description": "water at the airport"
   },
   {
+    "date": "2026-04-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
+  },
+  {
     "date": "2026-04-25",
     "category": "Food out",
     "amount": 19.0,
@@ -1308,6 +1332,12 @@
     "description": "tesco"
   },
   {
+    "date": "2026-05-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
+  },
+  {
     "date": "2026-05-22",
     "category": "Food out",
     "amount": 19.0,
@@ -1474,5 +1504,131 @@
     "category": "Discretionary",
     "amount": 70.0,
     "description": "pizza with parents"
+  },
+  {
+    "date": "2026-06-07",
+    "category": "Groceries",
+    "amount": 10.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-06-07",
+    "category": "Groceries",
+    "amount": 11.0,
+    "description": "tesco"
+  },
+  {
+    "date": "2026-06-08",
+    "category": "Groceries",
+    "amount": 4.0,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-06-10",
+    "category": "Council tax",
+    "amount": 102.0,
+    "description": "council tax"
+  },
+  {
+    "date": "2026-06-10",
+    "category": "Food out",
+    "amount": 27.0,
+    "description": "deliveroo"
+  },
+  {
+    "date": "2026-06-12",
+    "category": "Food out",
+    "amount": 21.0,
+    "description": "pizza pilgrims"
+  },
+  {
+    "date": "2026-06-12",
+    "category": "Groceries",
+    "amount": 2.5,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-06-13",
+    "category": "Food out",
+    "amount": 31.0,
+    "description": "deliveroo"
+  },
+  {
+    "date": "2026-06-13",
+    "category": "Food out",
+    "amount": 9.0,
+    "description": "ye ye"
+  },
+  {
+    "date": "2026-06-13",
+    "category": "Food out",
+    "amount": 11.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-06-13",
+    "category": "Food out",
+    "amount": 4.0,
+    "description": "pub lemonade"
+  },
+  {
+    "date": "2026-06-14",
+    "category": "Groceries",
+    "amount": 43.0,
+    "description": "m&s"
+  },
+  {
+    "date": "2026-06-15",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "gails"
+  },
+  {
+    "date": "2026-06-15",
+    "category": "Traveling",
+    "amount": 57.0,
+    "description": "suitcase for warsaw flight"
+  },
+  {
+    "date": "2026-06-16",
+    "category": "Traveling",
+    "amount": 33.0,
+    "description": "trains to luton"
+  },
+  {
+    "date": "2026-06-16",
+    "category": "Food out",
+    "amount": 9.5,
+    "description": "pizza with sog"
+  },
+  {
+    "date": "2026-06-18",
+    "category": "Traveling",
+    "amount": 100.0,
+    "description": "revolut for purchaes in poland"
+  },
+  {
+    "date": "2026-06-18",
+    "category": "Food out",
+    "amount": 4.0,
+    "description": "pret ice tea"
+  },
+  {
+    "date": "2026-06-18",
+    "category": "Groceries",
+    "amount": 3.5,
+    "description": "sainsburys"
+  },
+  {
+    "date": "2026-06-18",
+    "category": "Food out",
+    "amount": 10.0,
+    "description": "wasabi at the airport"
+  },
+  {
+    "date": "2026-06-21",
+    "category": "Water",
+    "amount": 22.0,
+    "description": "thames water bill"
   }
 ]
